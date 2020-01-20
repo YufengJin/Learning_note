@@ -1,0 +1,2 @@
+# Learning_note
+learning_script_in_2020
